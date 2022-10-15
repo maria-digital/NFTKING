@@ -1055,6 +1055,10 @@ div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swip
     margin-left: -155px;
   }
 
+  div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal.swiper-pagination-bullets-dynamic {
+    left: 65%;
+  }
+
   .form {
     padding: 25px 15px;
     margin-top: 60px;
@@ -1067,7 +1071,7 @@ div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swip
     display: block;
   }
   .form form input[type=text] {
-    width: 343px;
+    width: 320px;
     margin-bottom: 20px;
   }
   .form form input[type=submit] {
