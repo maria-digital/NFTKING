@@ -1041,6 +1041,10 @@ div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swip
         }
     }
 
+    div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal.swiper-pagination-bullets-dynamic {
+        left: 65%;
+    }
+
     .form {
         padding: 25px 15px;
         margin-top: 60px;
@@ -1056,7 +1060,7 @@ div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swip
         & form{
             display: block;
             & input[type=text] {
-                width: 343px;
+                width: 320px;
                 margin-bottom: 20px;
     
             }
